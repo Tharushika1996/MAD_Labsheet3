@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab_sheet3</string>
+    <string name="button_send">SEND</string>
+    <string name="edit_message">Enter a message</string>
+
+</resources>
